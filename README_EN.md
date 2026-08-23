@@ -8,7 +8,7 @@
 
 This project systematically evaluates rumor-detection methods on Chinese social-media text (Sina Weibo). It:
 
-- Builds classical baselines — **Logistic Regression, Naive Bayes, Random Forest** — on TF-IDF plus hand-crafted **textual, propagation, and user** features;
+- Builds classical baselines — **Logistic Regression, Naive Bayes, Random Forest** — on TF-IDF plus **textual, propagation, and user** features;
 - Runs a **length-stratified ablation** to show where short microblogs fail;
 - Designs **three incremental optimizations for short text**: threshold tuning → feature enhancement → a length-aware ensemble;
 - Compares against a **fine-tuned BERT-base-chinese** model as a deep-learning reference;
