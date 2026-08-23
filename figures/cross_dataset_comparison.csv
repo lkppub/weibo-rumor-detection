@@ -1,0 +1,10 @@
+Dataset,Model,Accuracy,Precision (Rumor),Recall (Rumor),F1 (Rumor)
+CED (Weibo Short),Logistic Regression,0.8584,0.863,0.8182,0.84
+CED (Weibo Short),Naive Bayes,0.8245,0.9238,0.6688,0.7759
+CED (Weibo Short),Random Forest,0.8658,0.9289,0.763,0.8378
+LTCR (Long Text),Logistic Regression,0.9333,0.9227,0.9971,0.9584
+LTCR (Long Text),Naive Bayes,0.9222,0.9105,0.9971,0.9519
+LTCR (Long Text),Random Forest,0.9867,0.9914,0.9914,0.9914
+CHECKED (COVID-19),Logistic Regression,0.962,1.0,0.7681,0.8689
+CHECKED (COVID-19),Naive Bayes,0.9121,1.0,0.4638,0.6337
+CHECKED (COVID-19),Random Forest,0.9857,0.9846,0.9275,0.9552

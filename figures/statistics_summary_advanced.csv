@@ -1,0 +1,3 @@
+,text_len,exclamation_count,question_count,sentiment,total_interactions,unique_users,time_span_hours,user_followers,user_verified,user_messages
+Non-rumor,100.4,0.64,0.24,0.77,428.1,411.7,5307.32,5528409.01,0.7,39405.6
+Rumor,103.15,1.29,0.33,0.61,314.45,302.62,2214.01,336761.72,0.41,16768.33

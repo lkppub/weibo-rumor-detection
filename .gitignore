@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Data files (download via scripts/fetch_datasets.py)
+data/*
+!data/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db

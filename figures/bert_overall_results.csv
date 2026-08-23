@@ -1,0 +1,2 @@
+Model,Accuracy,Precision (Rumor),Recall (Rumor),F1 (Rumor)
+BERT-base-chinese,0.9100294985250738,0.8945686900958466,0.9090909090909091,0.9017713365539453
