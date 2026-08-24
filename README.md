@@ -90,7 +90,3 @@ More charts live in [`figures/`](figures/), including length ablation, sentiment
 
 - **BERT** is positioned as a deep-learning **upper-bound reference**; the practical focus of this project is the classical pipeline plus short-text optimization.
 - The `data/` directory is gitignored — data is downloaded locally, never committed.
-
-## License
-
-MIT — see [LICENSE](LICENSE).
