@@ -90,7 +90,3 @@ python code/rumor_analysis_advanced.py    # 传播 + 用户特征及重要度分
 
 - **BERT** 定位为深度学习的**理论上限参考**；本项目的实践重点是经典流水线 + 短文本优化。
 - `data/` 目录已 gitignore——数据仅本地下载，永不提交到仓库。
-
-## 许可
-
-MIT —— 详见 [LICENSE](LICENSE)。
